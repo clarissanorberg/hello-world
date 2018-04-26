@@ -1,2 +1,3 @@
 # hello-world
-First Git repository, first Git branch! :)
+First Git repository, first GitHub branch! :)
+First branch from the command line!!!
