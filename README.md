@@ -1,2 +1,2 @@
 # hello-world
-First Git repository! :)
+First Git repository, first Git branch! :)
